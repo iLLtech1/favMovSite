@@ -42,6 +42,8 @@
 
 /* <----2---> */
 
+
+
 .border {
   border: 5px solid gold;
   align-items: center;
@@ -59,4 +61,9 @@
 .boxsize2 {
   width: 216px;
   height: 336px;
+}
+
+.honkFont {
+  font-family: 'Honk', system-ui;
+ font-size: 10cm;
 }
